@@ -1,6 +1,6 @@
 # Cryptography 
 
-* [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems (1977)](http://people.csail.mit.edu/rivest/Rsapaper.pdf)
+* [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems (1977)](https://dl.acm.org/doi/10.1145/359340.359342)
 * [Twenty Years of Attacks on the RSA Cryptosystem (1999)](https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf)
 * :scroll: [Communication Theory of Secrecy Systems (1949)](communication-theory-of-secrecy-systems.pdf)
 * [New Directions in Cryptography (1976)](http://www-ee.stanford.edu/~hellman/publications/24.pdf)
@@ -10,7 +10,7 @@
 * [Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2 (2017)](https://papers.mathyvanhoef.com/ccs2017.pdf) (Mathy Vanhoef, Frank Piessens)
 
 ## Related Works
-### [A Mathematical Theory of Cryptography (1945)](http://www.cs.bell-labs.com/who/dmr/pdfs/shannoncryptshrt.pdf) - Shannon
+### [A Mathematical Theory of Cryptography (1945)](https://www.iacr.org/museum/shannon/shannon45.pdf) - Shannon
 The original classified memo for Bell Labs that was republished in 1949 as ["Communication Theory of Secrecy Systems"](communication-theory-of-secrecy-systems.pdf).
 
 ### :scroll: [A Mathematical Theory of Communication (1948)](../information_theory/a-mathematical-theory-of-communication-1948.pdf) - Shannon
